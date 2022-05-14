@@ -1,4 +1,4 @@
-# ArabicPlagiarismDetection
+# Arabic Plagiarism Detection
 
 Plagiarism Detection as was introduced in Khan H. et al. paper:
 >Plagiarism is becoming a notorious problem in academic community. It occurs when someone
@@ -13,9 +13,9 @@ documents from the Web or any other repository of documents.
 
 In this project I try to find the plagiarism in AraPlagDet corpus(Arabic External Plagiarism Detection Corpus) following these steps:
 
-1. preprocessing th ecorpus text files
+1. Preprocessing the corpus text files.
 
-2. Preprocessing the input text file (which we want to classify as plagiarised or not).
+2. Preprocessing the input text file (which the user wants to classify as plagiarised or not).
 
 3. Query generation and submition.
 
